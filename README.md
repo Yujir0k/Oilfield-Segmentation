@@ -436,3 +436,8 @@ python -c "import torch; print(torch.cuda.get_device_name(0) if torch.cuda.is_av
 ## Лицензия
 
 Этот проект был разработан для участия в хакатоне Роснефти.
+
+
+## Сертификат участника РоснефтьХак
+
+<p align="center"><img src="docs/certificates/04_Rosneft_participation.png" width="75%" alt="Сертификат участника РоснефтьХак" /></p>
